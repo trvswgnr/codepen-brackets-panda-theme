@@ -1,0 +1,30 @@
+{
+  "title": "CodePen Panda Theme",
+  "name": "codepen-panda-theme",
+  "description": "Dark theme based on CodePen.io's Panda Theme",
+  "version": "0.1.0",
+  "author": "Travis Wagner <admin@travisawagner.com> (http://travisawagner.com/)",
+  "homepage": "https://github.com/trvswgnr/codepen-brackets-theme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trvswgnr/codepen-brackets-panda-theme.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=1.0.0"
+  },
+  "theme": {
+    "file": "theme.less",
+    "dark": true
+  },
+  "bugs": {
+    "url": "https://github.com/trvswgnr/codepen-brackets-panda-theme/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "clean-css-cli": "^4.1.3"
+  }
+}
