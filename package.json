@@ -4,7 +4,7 @@
   "description": "An exact replica of CodePen.io's Panda theme.",
   "version": "0.1.1",
   "author": "Travis Wagner <admin@travisawagner.com> (http://travisawagner.com/)",
-  "homepage": "https://github.com/trvswgnr/codepen-brackets-theme",
+  "homepage": "https://github.com/trvswgnr/codepen-brackets-panda-theme",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/trvswgnr/codepen-brackets-panda-theme.git"
