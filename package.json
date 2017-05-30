@@ -23,8 +23,5 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {
-    "clean-css-cli": "^4.1.3"
   }
 }
